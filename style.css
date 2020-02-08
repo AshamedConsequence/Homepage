@@ -13,6 +13,7 @@ a
 {
     position: relative;
     display: inline-block;
+    margin: 10px 0;
     padding: 15px 30px;
     color: #2196f3;
     text-transform: uppercase;
