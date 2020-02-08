@@ -1,2 +1,2 @@
-# Homepage2
+# Homepage
 My First Open Source Homepage
